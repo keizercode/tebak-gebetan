@@ -9,14 +9,14 @@ function About() {
       <Container className='my-5 px-4'>
         <h1 className='about-title pb-3'>🔑&nbsp;&nbsp;Tentang</h1>
         <p className='about-desc m-0'>
-          Tujuan utama dibuatnya <strong>GuessYourCrush</strong> adalah untuk
+          Tujuan utama dibuatnya <strong>TebakNamaCrush</strong> adalah untuk
           bersenang senang atau hiburan semata. Semoga dengan adanya{' '}
-          <strong>GuessYourCrush</strong> bisa menjadi hiburan yang seru bagi
+          <strong>TebakNamaCrush</strong> bisa menjadi hiburan yang seru bagi
           siapa saja yang memainkannya.
           <br />{' '}
           <i>
             <strong>
-              #GYC&nbsp;&nbsp;#GuessYourCrush&nbsp;&nbsp;#TebakNama
+              #GYC&nbsp;&nbsp;#TebakNamaCrush&nbsp;&nbsp;#TebakNama
             </strong>
           </i>
         </p>
